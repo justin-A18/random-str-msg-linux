@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-linux",
+  "version": "1.0.0",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Justin Huertas <justin.hv08@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-linux": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
